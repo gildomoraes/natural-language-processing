@@ -1,2 +1,2 @@
 # natural-language-processing
-Projetos relacionados a NLP.
+Repositório dos projetos relacionados a processamento de linguagem natural.
