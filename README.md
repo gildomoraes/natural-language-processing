@@ -1,2 +1,2 @@
 # natural-language-processing
-Projetos relacionados a NLP
+Projetos relacionados a NLP.
