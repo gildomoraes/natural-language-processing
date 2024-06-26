@@ -2,8 +2,6 @@
 
 Este repositório reúne todos projetos relacionados a processamento de linguagem natural.
 
-[Imagem NLP](https://datascientest.com/en/wp-content/uploads/sites/9/2023/09/nlp.jpg)
-
 ![Imagem NLP](readme-files/nlp.jpg)
 
 ## Projeto 1 - Classificador de Chamados
